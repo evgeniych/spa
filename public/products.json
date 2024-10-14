@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Banana",
+        "price": 2,
+        "description": "A ripe yellow banana, perfect for a quick snack.",
+        "image": "banana.png"
+    },
+    {
+        "id": 2,
+        "name": "Pomegranate",
+        "price": 4,
+        "description": "A juicy pomegranate full of antioxidants and flavor.",
+        "image": "pomegranate.png"
+    },
+    {
+        "id": 3,
+        "name": "Kiwi",
+        "price": 3,
+        "description": "A tangy kiwi with a fuzzy exterior and vibrant green flesh.",
+        "image": "kiwi.png"
+    },
+    {
+        "id": 4,
+        "name": "Tangerine",
+        "price": 2,
+        "description": "A sweet and easy-to-peel tangerine, ideal for a quick refreshment.",
+        "image": "tangerine.png"
+    },
+    {
+        "id": 5,
+        "name": "Avocado",
+        "price": 5,
+        "description": "A creamy avocado, perfect for making guacamole or topping toast.",
+        "image": "avocado.png"
+    },
+    {
+        "id": 6,
+        "name": "Watermelon",
+        "price": 8,
+        "description": "A large, refreshing watermelon, perfect for hot summer days.",
+        "image": "watermelon.png"
+    }
+]
